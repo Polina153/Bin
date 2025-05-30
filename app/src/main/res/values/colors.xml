@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="navigation_white_bg">#FFFFFF</color>
+    <color name="middle_gray">#4D4D4D</color>
+    <color name="light_gray">#E6E6E6</color>
+    <color name="main_blue">#1634F0</color>
+    <color name="old_price_text_color">#999999</color>
+    <color name="old_price_line">#999999</color>
+</resources>

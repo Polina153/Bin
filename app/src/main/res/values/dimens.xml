@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_0">0dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="corner_radius">16dp</dimen>
+    <dimen name="fragment_container_height">0dp</dimen>
+    <dimen name="image_view_adv_card_width">50dp</dimen>
+    <dimen name="image_view_adv_card_height">50dp</dimen>
+    <dimen name="view_card_adv_width">0dp</dimen>
+    <dimen name="view_card_adv_height">1dp</dimen>
+    <dimen name="text_view_card_adv_width">0dp</dimen>
+    <dimen name="image_view_card_adv_width">0dp</dimen>
+    <dimen name="image_view_item_width">50dp</dimen>
+    <dimen name="image_view_item_height">50dp</dimen>
+    <dimen name="bin_title_size">28sp</dimen>
+    <dimen name="bin_subtitle_size">14sp</dimen>
+    <dimen name="bin_number_of_items_example">14sp</dimen>
+    <dimen name="bin_header_spinner_linear_height">50dp</dimen>
+    <dimen name="bin_header_spinner_text_size">16sp</dimen>
+    <dimen name="bin_header_spinner_sign_width">0dp</dimen>
+    <dimen name="bin_recycler_view_height">0dp</dimen>
+    <dimen name="bin_footer_conatainer_height">68dp</dimen>
+    <dimen name="bin_footer_total_sum_text_size">16sp</dimen>
+    <dimen name="bin_footer_total_old_price_text_size">13sp</dimen>
+    <dimen name="bin_footer_view_width">0dp</dimen>
+    <dimen name="bin_footer_view_height">1dp</dimen>
+</resources>

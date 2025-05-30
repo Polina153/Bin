@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bin</string>
+    <string name="navigation_main">Главная</string>
+    <string name="navigation_compare">Сравнить</string>
+    <string name="navigation_catalogue">Каталог</string>
+    <string name="navigation_bin">Корзина</string>
+    <string name="navigation_user_profile">Профиль</string>
+    <string name="sale">Акция!</string>
+    <string name="new_flag">Новинка</string>
+    <string name="add">+1</string>
+    <string name="bestseller">Лидер продаж</string>
+    <string name="time">12:12:12</string>
+    <string name="adv_flag">5+1=30%</string>
+    <string name="bin">Корзина</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="old_price_stub">1000</string>
+    <string name="proceed">Продолжить</string>
+    <string name="header_total_count">%1$s</string>
+    <string name="adv_item_total_count">%1$s</string>
+    <string name="header_total_price">%1$s ₽</string>
+    <string name="spinner_total_count">Товары (%1$s)</string>
+    <string name="footer_total_price">%1$s ₽</string>
+    <string name="footer_total_price_old">%1$s ₽</string>
+    <string name="price_example">17 687 ₽</string>
+    <string name="amount_of_item_example">1 шт.</string>
+    <string name="bin_amount_of_items_example">165 товаров</string>
+    <string name="bin_total_sum_example">657 500 ₽</string>
+    <string name="bin_header_spinner_text">Товары (165)</string>
+    <string name="bin_footer_total_price_example">157 560 ₽</string>
+    <string name="bin_footer_total_old_price_example">657 500 ₽</string>
+</resources>
