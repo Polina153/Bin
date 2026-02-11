@@ -1,3 +1,4 @@
+<img width="412" height="863" alt="image" src="https://github.com/user-attachments/assets/64fd95bb-f0f5-4c30-b005-cd8e723f6ce9" />
 
 # Bin Application
 
